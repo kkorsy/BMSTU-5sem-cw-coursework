@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="xgml">
+	<attribute key="Creator" type="String">yFiles</attribute>
+	<attribute key="Version" type="String">2.20</attribute>
+	<section name="graph">
+		<attribute key="hierarchic" type="int">1</attribute>
+		<attribute key="label" type="String"></attribute>
+		<attribute key="directed" type="int">1</attribute>
+		<section name="node">
+			<attribute key="id" type="int">0</attribute>
+			<attribute key="label" type="String">Point</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">500.0</attribute>
+				<attribute key="y" type="double">300.0</attribute>
+				<attribute key="w" type="double">172.03274559193954</attribute>
+				<attribute key="h" type="double">170.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Point</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">31.3515625</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- x : double
+- y : double
+- z : double
++ to_radians(double)
++ rotate(Point, Vector)
++ invert_rotate(Point, Vector)
++ rotate_ox(Point, double)
++ rotate_oy(Point, double)
++ rotate_oz(Point, double)</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">157.73828125</attribute>
+				<attribute key="contentHeight" type="double">136.310546875</attribute>
+				<attribute key="anchor" type="String">bl</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">1</attribute>
+			<attribute key="label" type="String">Vertex</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">275.0</attribute>
+				<attribute key="y" type="double">300.0</attribute>
+				<attribute key="w" type="double">84.45957446808507</attribute>
+				<attribute key="h" type="double">67.60425531914893</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Vertex</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">38.681640625</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- n : Vector
++ normalize()</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">74.353515625</attribute>
+				<attribute key="contentHeight" type="double">33.40234375</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">2</attribute>
+			<attribute key="label" type="String">Vector</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">275.0</attribute>
+				<attribute key="y" type="double">100.00000000000003</attribute>
+				<attribute key="w" type="double">158.76423173803528</attribute>
+				<attribute key="h" type="double">153.36225692695217</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Vector</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">38.681640625</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- x : double
+- y : double
+- z : double
++ get_length()
++ normalize()
++ invert()
++ scalar_mult(Vector)
++ vect_mult(Vector, Vector)</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">149.716796875</attribute>
+				<attribute key="contentHeight" type="double">121.609375</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">3</attribute>
+			<attribute key="label" type="String">Side</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">75.0</attribute>
+				<attribute key="y" type="double">304.1111838790932</attribute>
+				<attribute key="w" type="double">144.0</attribute>
+				<attribute key="h" type="double">120.01138539042827</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Side</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">28.017578125</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- vrt_arr : &#x43c;&#x430;&#x441;&#x441;&#x438;&#x432; Vertex
+- n : Vector
+- color : Rgb
++ n_correction(Point)
++ set_vert_normal(Point)
+- find_normal()</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">135.724609375</attribute>
+				<attribute key="contentHeight" type="double">92.20703125</attribute>
+				<attribute key="anchor" type="String">bl</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">4</attribute>
+			<attribute key="label" type="String">Model</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">275.0</attribute>
+				<attribute key="y" type="double">496.111838790932</attribute>
+				<attribute key="w" type="double">151.0</attribute>
+				<attribute key="h" type="double">170.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Model</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">36.68359375</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- v_arr : &#x43c;&#x430;&#x441;&#x441;&#x438;&#x432; Vertex
+- s_arr : &#x43c;&#x430;&#x441;&#x441;&#x438;&#x432; Side
+- center : Point
++ normalize_n_vrt()
++ add_vertex(Point)
++ add_vertices(&#x43c;&#x430;&#x441;&#x441;&#x438;&#x432;)
++ add_side(&#x43c;&#x430;&#x441;&#x441;&#x438;&#x432;, Rgb)
++ correct_n()
++ get_center()</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">139.7265625</attribute>
+				<attribute key="contentHeight" type="double">136.310546875</attribute>
+				<attribute key="anchor" type="String">bl</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">5</attribute>
+			<attribute key="label" type="String">Surface</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">875.0</attribute>
+				<attribute key="y" type="double">754.508159565536</attribute>
+				<attribute key="w" type="double">78.38695978720932</attribute>
+				<attribute key="h" type="double">49.876925451524585</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Surface</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">45.35546875</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- color: Rgb</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">66.021484375</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">br</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">6</attribute>
+			<attribute key="label" type="String">Camera</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">500.0</attribute>
+				<attribute key="y" type="double">100.0</attribute>
+				<attribute key="w" type="double">121.0</attribute>
+				<attribute key="h" type="double">90.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Camera</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">46.6796875</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- pos : Point
+- dir : Vector
++ get_position()
++ get_direction()</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">91.046875</attribute>
+				<attribute key="contentHeight" type="double">62.8046875</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">7</attribute>
+			<attribute key="label" type="String">SceneObject</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">875.0</attribute>
+				<attribute key="y" type="double">100.0</attribute>
+				<attribute key="w" type="double">121.0</attribute>
+				<attribute key="h" type="double">38.267002518891786</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">SceneObject</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">72.70703125</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">8</attribute>
+			<attribute key="label" type="String">InvisibleObject</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">700.0</attribute>
+				<attribute key="y" type="double">100.0</attribute>
+				<attribute key="w" type="double">121.0</attribute>
+				<attribute key="h" type="double">49.35264483627202</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">InvisibleObject</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">82.03515625</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">+ is_drawable()</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">86.37109375</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">9</attribute>
+			<attribute key="label" type="String">VisibleObject</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">802.9195603191861</attribute>
+				<attribute key="y" type="double">516.5425460302628</attribute>
+				<attribute key="w" type="double">121.0</attribute>
+				<attribute key="h" type="double">77.44706723404255</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">VisibleObject</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">74.03125</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- model : Model
++ is_drawable()
++ get_model()</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">86.69921875</attribute>
+				<attribute key="contentHeight" type="double">48.103515625</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">10</attribute>
+			<attribute key="label" type="String">LightSource</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">700.0</attribute>
+				<attribute key="y" type="double">300.0</attribute>
+				<attribute key="w" type="double">121.0</attribute>
+				<attribute key="h" type="double">111.7890176322419</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">LightSource</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">68.04296875</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- pos : Point
+- i : double
++ get_position()
++ get_itensity()
++ set_itensity()</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">87.05078125</attribute>
+				<attribute key="contentHeight" type="double">77.505859375</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">11</attribute>
+			<attribute key="label" type="String">Receptacle</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">968.3869597872094</attribute>
+				<attribute key="y" type="double">754.508159565536</attribute>
+				<attribute key="w" type="double">78.38695978720932</attribute>
+				<attribute key="h" type="double">49.876925451524585</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Receptacle</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">64.03515625</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- color: Rgb</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">66.021484375</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">br</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">12</attribute>
+			<attribute key="label" type="String">Stem</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">1061.7739195744189</attribute>
+				<attribute key="y" type="double">754.508159565536</attribute>
+				<attribute key="w" type="double">78.38695978720921</attribute>
+				<attribute key="h" type="double">49.876925451524585</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Stem</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">32.0078125</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- color: Rgb</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">66.021484375</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">br</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">13</attribute>
+			<attribute key="label" type="String">Petal</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">594.839120638372</attribute>
+				<attribute key="y" type="double">754.508159565536</attribute>
+				<attribute key="w" type="double">78.38695978720921</attribute>
+				<attribute key="h" type="double">49.876925451524585</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Petal</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">31.3515625</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- color: Rgb</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">66.021484375</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">br</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">14</attribute>
+			<attribute key="label" type="String">Center</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">781.6130402127907</attribute>
+				<attribute key="y" type="double">754.508159565536</attribute>
+				<attribute key="w" type="double">78.38695978720921</attribute>
+				<attribute key="h" type="double">49.876925451524585</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Center</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">40.017578125</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- color: Rgb</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">66.021484375</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">15</attribute>
+			<attribute key="label" type="String">Leaf</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">688.2260804255814</attribute>
+				<attribute key="y" type="double">754.508159565536</attribute>
+				<attribute key="w" type="double">78.38695978720921</attribute>
+				<attribute key="h" type="double">49.876925451524585</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">Leaf</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">27.35546875</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">- color: Rgb</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">66.021484375</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">bl</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">6</attribute>
+			<attribute key="target" type="int">8</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_delta</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">1.0</attribute>
+				<attribute key="xTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">10</attribute>
+			<attribute key="target" type="int">8</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_delta</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">-1.0</attribute>
+				<attribute key="yTarget" type="double">1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">1</attribute>
+			<attribute key="target" type="int">0</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_delta</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.15704604877063116</attribute>
+				<attribute key="xTarget" type="double">-1.0000000000000002</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">0</attribute>
+			<attribute key="target" type="int">10</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_diamond</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">1.0000000000000002</attribute>
+				<attribute key="xTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">1</attribute>
+			<attribute key="target" type="int">3</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_diamond</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.0472910790003783</attribute>
+				<attribute key="ySource" type="double">0.1216250030322775</attribute>
+				<attribute key="xTarget" type="double">1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">2</attribute>
+			<attribute key="target" type="int">3</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_diamond</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">275.0</attribute>
+						<attribute key="y" type="double">100.00000000000003</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">75.0</attribute>
+						<attribute key="y" type="double">100.0</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">75.0</attribute>
+						<attribute key="y" type="double">304.1111838790932</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-1.0</attribute>
+				<attribute key="yTarget" type="double">-0.9999999999999996</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">2</attribute>
+			<attribute key="target" type="int">1</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_diamond</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">0.9999999999999997</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">0</attribute>
+			<attribute key="target" type="int">6</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_diamond</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">-1.0</attribute>
+				<attribute key="yTarget" type="double">1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">2</attribute>
+			<attribute key="target" type="int">6</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_diamond</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">1.0</attribute>
+				<attribute key="xTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">4</attribute>
+			<attribute key="target" type="int">9</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_diamond</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xSource" type="double">-0.08873173746651927</attribute>
+				<attribute key="ySource" type="double">0.3682317254250433</attribute>
+				<attribute key="xTarget" type="double">-0.9999426608086489</attribute>
+				<attribute key="yTarget" type="double">0.28068175619748675</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">1</attribute>
+			<attribute key="target" type="int">4</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_diamond</attribute>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">1.0</attribute>
+				<attribute key="yTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">3</attribute>
+			<attribute key="target" type="int">4</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_diamond</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">75.0</attribute>
+						<attribute key="y" type="double">304.1111838790932</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">75.0</attribute>
+						<attribute key="y" type="double">496.111838790932</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">275.0</attribute>
+						<attribute key="y" type="double">496.111838790932</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">0.9999999999999996</attribute>
+				<attribute key="xTarget" type="double">-1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">0</attribute>
+			<attribute key="target" type="int">4</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_diamond</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">500.0</attribute>
+						<attribute key="y" type="double">300.0</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">500.0</attribute>
+						<attribute key="y" type="double">496.111838790932</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">275.0</attribute>
+						<attribute key="y" type="double">496.111838790932</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="ySource" type="double">1.0</attribute>
+				<attribute key="xTarget" type="double">1.0</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">12</attribute>
+			<attribute key="target" type="int">9</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_delta</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">1061.7739195744189</attribute>
+						<attribute key="y" type="double">754.508159565536</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">1061.7739195744189</attribute>
+						<attribute key="y" type="double">601.066535327238</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">851.9956851162754</attribute>
+						<attribute key="y" type="double">601.066535327238</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">802.9195603191861</attribute>
+						<attribute key="y" type="double">516.5425460302628</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.8111756164808145</attribute>
+				<attribute key="yTarget" type="double">0.2906793893574522</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">15</attribute>
+			<attribute key="target" type="int">9</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_delta</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">688.2260804255814</attribute>
+						<attribute key="y" type="double">754.508159565536</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">688.2260804255814</attribute>
+						<attribute key="y" type="double">617.3343367456777</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">781.6130402127907</attribute>
+						<attribute key="y" type="double">617.3343367456777</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">802.9195603191861</attribute>
+						<attribute key="y" type="double">516.5425460302628</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">-0.35217388605612227</attribute>
+				<attribute key="yTarget" type="double">0.3860220698491202</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">11</attribute>
+			<attribute key="target" type="int">9</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_delta</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">968.3869597872094</attribute>
+						<attribute key="y" type="double">754.508159565536</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">968.3869597872094</attribute>
+						<attribute key="y" type="double">617.3343367456777</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">835.7278836978355</attribute>
+						<attribute key="y" type="double">617.3343367456777</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">802.9195603191861</attribute>
+						<attribute key="y" type="double">516.5425460302628</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.542286336837181</attribute>
+				<attribute key="yTarget" type="double">0.5979600828168689</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">5</attribute>
+			<attribute key="target" type="int">9</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_delta</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">875.0</attribute>
+						<attribute key="y" type="double">754.508159565536</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">875.0</attribute>
+						<attribute key="y" type="double">636.8556984478054</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">820.0007518085478</attribute>
+						<attribute key="y" type="double">636.8556984478054</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">802.9195603191861</attribute>
+						<attribute key="y" type="double">516.5425460302628</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">0.282333743625813</attribute>
+				<attribute key="yTarget" type="double">1.000559925212455</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">13</attribute>
+			<attribute key="target" type="int">9</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_delta</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">594.839120638372</attribute>
+						<attribute key="y" type="double">754.508159565536</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">594.839120638372</attribute>
+						<attribute key="y" type="double">601.066535327238</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">765.0280187332966</attribute>
+						<attribute key="y" type="double">601.066535327238</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">802.9195603191861</attribute>
+						<attribute key="y" type="double">516.5425460302628</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">-0.6263064724940416</attribute>
+				<attribute key="yTarget" type="double">0.5942499280051479</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">14</attribute>
+			<attribute key="target" type="int">9</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_delta</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">781.6130402127907</attribute>
+						<attribute key="y" type="double">754.508159565536</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">781.6130402127907</attribute>
+						<attribute key="y" type="double">636.8556984478054</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">799.9387205772682</attribute>
+						<attribute key="y" type="double">636.8556984478054</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">802.9195603191861</attribute>
+						<attribute key="y" type="double">516.5425460302628</attribute>
+					</section>
+				</section>
+			</section>
+			<section name="edgeAnchor">
+				<attribute key="xTarget" type="double">-0.04927007837880763</attribute>
+				<attribute key="yTarget" type="double">0.489508073360604</attribute>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">9</attribute>
+			<attribute key="target" type="int">7</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_delta</attribute>
+				<section name="Line">
+					<section name="point">
+						<attribute key="x" type="double">802.9195603191861</attribute>
+						<attribute key="y" type="double">516.5425460302628</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">802.9195603191861</attribute>
+						<attribute key="y" type="double">383.5845744680852</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">875.0</attribute>
+						<attribute key="y" type="double">383.5845744680852</attribute>
+					</section>
+					<section name="point">
+						<attribute key="x" type="double">875.0</attribute>
+						<attribute key="y" type="double">100.0</attribute>
+					</section>
+				</section>
+			</section>
+		</section>
+		<section name="edge">
+			<attribute key="source" type="int">8</attribute>
+			<attribute key="target" type="int">7</attribute>
+			<section name="graphics">
+				<attribute key="fill" type="String">#000000</attribute>
+				<attribute key="targetArrow" type="String">white_delta</attribute>
+			</section>
+		</section>
+	</section>
+</section>

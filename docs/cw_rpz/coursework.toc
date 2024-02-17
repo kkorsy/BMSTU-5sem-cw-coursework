@@ -1,0 +1,35 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{ВВЕДЕНИЕ}{5}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}Аналитический раздел}{6}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Формализация объектов синтезируемой сцены}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Выбор способа определения моделей}{7}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Выбор алгоритма удаления невидимых ребер и поверхностей}{8}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Алгоритм Робертса}{8}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Алгоритм, использующий z-буфер}{9}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Алгоритм обратной трассировки лучей}{10}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Алгоритм Варнока}{11}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}Выбор алгоритма построения теней}{12}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Анализ методов закрашивания}{13}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Простая закраска}{13}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Закраска по Гуро}{14}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Закраска по Фонгу}{14}{subsection.1.5.3}%
+\contentsline {chapter}{\numberline {2}Конструкторский раздел}{16}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Общий алгоритм решения поставленной задачи}{16}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Алгоритм, использующий z-буфер}{16}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Модифицированный алгоритм, использующий z-буфер}{18}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Алгоритм закраски Гуро}{20}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Схема алгоритма генерации одного кадра изображения}{21}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Описание используемых структур данных}{24}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Технологический раздел}{26}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Средства реализации}{26}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Разработка используемых классов}{26}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Разработка интерфейса}{27}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Исследовательский раздел}{30}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Технические характеристики}{30}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Цель исследования}{30}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Результаты исследования}{30}{section.4.3}%
+\contentsline {chapter}{ЗАКЛЮЧЕНИЕ}{34}{chapter*.21}%
+\contentsline {chapter}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{35}{chapter*.22}%
+\contentsline {chapter}{ПРИЛОЖЕНИЕ \numberline {\CYRA }}{36}{appendix.1.A}%
+\contentsline {chapter}{ПРИЛОЖЕНИЕ \numberline {\CYRB }}{37}{appendix.1.B}%
+\contentsline {chapter}{ПРИЛОЖЕНИЕ \numberline {\CYRV }}{58}{appendix.1.C}%

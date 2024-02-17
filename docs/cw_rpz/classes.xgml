@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="xgml">
+	<attribute key="Creator" type="String">yFiles</attribute>
+	<attribute key="Version" type="String">2.20</attribute>
+	<section name="graph">
+		<attribute key="hierarchic" type="int">1</attribute>
+		<attribute key="label" type="String"></attribute>
+		<attribute key="directed" type="int">1</attribute>
+		<section name="node">
+			<attribute key="id" type="int">0</attribute>
+			<attribute key="label" type="String">&#x422;&#x43e;&#x447;&#x43a;&#x430;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">-270.3308564231737</attribute>
+				<attribute key="y" type="double">76.56849370277072</attribute>
+				<attribute key="w" type="double">150.99999999999994</attribute>
+				<attribute key="h" type="double">66.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x422;&#x43e;&#x447;&#x43a;&#x430;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">36.1796875</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">x, y, z : &#x43a;&#x43e;&#x43e;&#x440;&#x434;&#x438;&#x43d;&#x430;&#x442;&#x44b; &#x442;&#x43e;&#x447;&#x43a;&#x438;
+(&#x432;&#x435;&#x449;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43d;&#x43d;&#x44b;&#x435;)</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">145.4453125</attribute>
+				<attribute key="contentHeight" type="double">33.40234375</attribute>
+				<attribute key="anchor" type="String">br</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">1</attribute>
+			<attribute key="label" type="String">&#x412;&#x435;&#x440;&#x448;&#x438;&#x43d;&#x430;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">108.4006297229219</attribute>
+				<attribute key="y" type="double">72.1269319899244</attribute>
+				<attribute key="w" type="double">145.5</attribute>
+				<attribute key="h" type="double">57.116876574307355</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x412;&#x435;&#x440;&#x448;&#x438;&#x43d;&#x430;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">54.982421875</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x412;&#x435;&#x43a;&#x442;&#x43e;&#x440;: &#x432;&#x435;&#x43a;&#x442;&#x43e;&#x440; &#x43d;&#x43e;&#x440;&#x43c;&#x430;&#x43b;&#x438;</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">138.51953125</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">br</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">2</attribute>
+			<attribute key="label" type="String">&#x412;&#x435;&#x43a;&#x442;&#x43e;&#x440;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">-80.36574307304787</attribute>
+				<attribute key="y" type="double">76.56849370277072</attribute>
+				<attribute key="w" type="double">172.03274559193954</attribute>
+				<attribute key="h" type="double">66.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x412;&#x435;&#x43a;&#x442;&#x43e;&#x440;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">42.771484375</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">x, y, z : &#x43a;&#x43e;&#x43e;&#x440;&#x434;&#x438;&#x43d;&#x430;&#x442;&#x44b; &#x432;&#x435;&#x43a;&#x442;&#x43e;&#x440;&#x430; 
+(&#x432;&#x435;&#x449;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43d;&#x43d;&#x44b;&#x435;)</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">162.220703125</attribute>
+				<attribute key="contentHeight" type="double">33.40234375</attribute>
+				<attribute key="anchor" type="String">bl</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">3</attribute>
+			<attribute key="label" type="String">&#x421;&#x442;&#x43e;&#x440;&#x43e;&#x43d;&#x430;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">-270.3308564231737</attribute>
+				<attribute key="y" type="double">183.80224685138538</attribute>
+				<attribute key="w" type="double">151.0</attribute>
+				<attribute key="h" type="double">77.23375314861465</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x421;&#x442;&#x43e;&#x440;&#x43e;&#x43d;&#x430;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">51.484375</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41c;&#x430;&#x441;&#x441;&#x438;&#x432; &#x432;&#x435;&#x440;&#x448;&#x438;&#x43d;
+&#x426;&#x432;&#x435;&#x442;
+&#x412;&#x435;&#x43a;&#x442;&#x43e;&#x440; : &#x432;&#x435;&#x43a;&#x442;&#x43e;&#x440; &#x43d;&#x43e;&#x440;&#x43c;&#x430;&#x43b;&#x438;</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">141.853515625</attribute>
+				<attribute key="contentHeight" type="double">48.103515625</attribute>
+				<attribute key="anchor" type="String">bl</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">4</attribute>
+			<attribute key="label" type="String">&#x41c;&#x43e;&#x434;&#x435;&#x43b;&#x44c;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">-86.40062972292196</attribute>
+				<attribute key="y" type="double">273.9557934508817</attribute>
+				<attribute key="w" type="double">151.0</attribute>
+				<attribute key="h" type="double">77.23375314861465</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41c;&#x43e;&#x434;&#x435;&#x43b;&#x44c;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">47.599609375</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41c;&#x430;&#x441;&#x441;&#x438;&#x432; &#x432;&#x435;&#x440;&#x448;&#x438;&#x43d;
+&#x41c;&#x430;&#x441;&#x441;&#x438;&#x432; &#x441;&#x442;&#x43e;&#x440;&#x43e;&#x43d;
+&#x422;&#x43e;&#x447;&#x43a;&#x430; : &#x446;&#x435;&#x43d;&#x442;&#x440; &#x43c;&#x43e;&#x434;&#x435;&#x43b;&#x438;</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">124.1640625</attribute>
+				<attribute key="contentHeight" type="double">48.103515625</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">5</attribute>
+			<attribute key="label" type="String">&#x41f;&#x43e;&#x432;&#x435;&#x440;&#x445;&#x43d;&#x43e;&#x441;&#x442;&#x44c;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">269.9931650321438</attribute>
+				<attribute key="y" type="double">366.94536020151145</attribute>
+				<attribute key="w" type="double">160.38695978720932</attribute>
+				<attribute key="h" type="double">60.438287153652254</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41f;&#x43e;&#x432;&#x435;&#x440;&#x445;&#x43d;&#x43e;&#x441;&#x442;&#x44c;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">76.0703125</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41a;&#x43b;&#x430;&#x441;&#x441; &#x43c;&#x43e;&#x434;&#x435;&#x43b;&#x438; &#x43f;&#x43e;&#x432;&#x435;&#x440;&#x445;&#x43d;&#x43e;&#x441;&#x442;&#x438;
+&#x426;&#x432;&#x435;&#x442;</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">156.033203125</attribute>
+				<attribute key="contentHeight" type="double">33.40234375</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">6</attribute>
+			<attribute key="label" type="String">&#x41a;&#x430;&#x43c;&#x435;&#x440;&#x430;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">-86.40062972292196</attribute>
+				<attribute key="y" type="double">178.18537027707805</attribute>
+				<attribute key="w" type="double">181.0</attribute>
+				<attribute key="h" type="double">66.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41a;&#x430;&#x43c;&#x435;&#x440;&#x430;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">45.935546875</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x422;&#x43e;&#x447;&#x43a;&#x430; : &#x43f;&#x43e;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x435; &#x43a;&#x430;&#x43c;&#x435;&#x440;&#x44b;
+&#x412;&#x435;&#x43a;&#x442;&#x43e;&#x440; : &#x43d;&#x430;&#x43f;&#x440;&#x430;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x43a;&#x430;&#x43c;&#x435;&#x440;&#x44b;</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">171.455078125</attribute>
+				<attribute key="contentHeight" type="double">33.40234375</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">7</attribute>
+			<attribute key="label" type="String">&#x418;&#x441;&#x442;&#x43e;&#x447;&#x43d;&#x438;&#x43a; &#x441;&#x432;&#x435;&#x442;&#x430;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">143.1506297229219</attribute>
+				<attribute key="y" type="double">178.18537027707805</attribute>
+				<attribute key="w" type="double">215.0</attribute>
+				<attribute key="h" type="double">66.0</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x418;&#x441;&#x442;&#x43e;&#x447;&#x43d;&#x438;&#x43a; &#x441;&#x432;&#x435;&#x442;&#x430;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">90.1796875</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x422;&#x43e;&#x447;&#x43a;&#x430; : &#x43f;&#x43e;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x435; &#x438;&#x441;&#x442;&#x43e;&#x447;&#x43d;&#x438;&#x43a;&#x430; &#x441;&#x432;&#x435;&#x442;&#x430;
+i : &#x438;&#x43d;&#x442;&#x435;&#x43d;&#x441;&#x438;&#x432;&#x43d;&#x43e;&#x441;&#x442;&#x44c; (&#x432;&#x435;&#x449;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43d;&#x43d;&#x43e;&#x435;)</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">202.0</attribute>
+				<attribute key="contentHeight" type="double">33.40234375</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">8</attribute>
+			<attribute key="label" type="String">&#x426;&#x432;&#x435;&#x442;&#x43e;&#x43b;&#x43e;&#x436;&#x435;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">-177.5241279455985</attribute>
+				<attribute key="y" type="double">457.3836473551637</attribute>
+				<attribute key="w" type="double">150.99999999999994</attribute>
+				<attribute key="h" type="double">60.438287153652254</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x426;&#x432;&#x435;&#x442;&#x43e;&#x43b;&#x43e;&#x436;&#x435;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">66.47265625</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41a;&#x43b;&#x430;&#x441;&#x441; &#x43c;&#x43e;&#x434;&#x435;&#x43b;&#x438; &#x446;&#x432;&#x435;&#x442;&#x43e;&#x43b;&#x43e;&#x436;&#x430;
+&#x426;&#x432;&#x435;&#x442;</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">146.107421875</attribute>
+				<attribute key="contentHeight" type="double">33.40234375</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">9</attribute>
+			<attribute key="label" type="String">&#x421;&#x442;&#x435;&#x431;&#x435;&#x43b;&#x44c;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">-7.693479893604717</attribute>
+				<attribute key="y" type="double">457.3836473551637</attribute>
+				<attribute key="w" type="double">136.3869597872092</attribute>
+				<attribute key="h" type="double">60.438287153652254</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x421;&#x442;&#x435;&#x431;&#x435;&#x43b;&#x44c;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">51.63671875</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41a;&#x43b;&#x430;&#x441;&#x441; &#x43c;&#x43e;&#x434;&#x435;&#x43b;&#x438; &#x441;&#x442;&#x435;&#x431;&#x43b;&#x44f;
+&#x426;&#x432;&#x435;&#x442;</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">124.181640625</attribute>
+				<attribute key="contentHeight" type="double">33.40234375</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">10</attribute>
+			<attribute key="label" type="String">&#x41b;&#x435;&#x43f;&#x435;&#x441;&#x442;&#x43e;&#x43a;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">-270.3308564231737</attribute>
+				<attribute key="y" type="double">366.94536020151145</attribute>
+				<attribute key="w" type="double">150.99999999999994</attribute>
+				<attribute key="h" type="double">60.438287153652254</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41b;&#x435;&#x43f;&#x435;&#x441;&#x442;&#x43e;&#x43a;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">55.140625</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41a;&#x43b;&#x430;&#x441;&#x441; &#x43c;&#x43e;&#x434;&#x435;&#x43b;&#x438; &#x43b;&#x435;&#x43f;&#x435;&#x441;&#x442;&#x43a;&#x430;
+&#x426;&#x432;&#x435;&#x442;</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">135.90625</attribute>
+				<attribute key="contentHeight" type="double">33.40234375</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">11</attribute>
+			<attribute key="label" type="String">&#x426;&#x435;&#x43d;&#x442;&#x440;&#x430;&#x43b;&#x44c;&#x43d;&#x430;&#x44f; &#x447;&#x430;&#x441;&#x442;&#x44c;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">72.74286996391103</attribute>
+				<attribute key="y" type="double">366.94536020151145</attribute>
+				<attribute key="w" type="double">195.03274559193954</attribute>
+				<attribute key="h" type="double">60.438287153652254</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x426;&#x435;&#x43d;&#x442;&#x440;&#x430;&#x43b;&#x44c;&#x43d;&#x430;&#x44f; &#x447;&#x430;&#x441;&#x442;&#x44c;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">112.08203125</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41a;&#x43b;&#x430;&#x441;&#x441; &#x43c;&#x43e;&#x434;&#x435;&#x43b;&#x438; &#x446;&#x435;&#x43d;&#x442;&#x440;&#x430;&#x43b;&#x44c;&#x43d;&#x43e;&#x439; &#x447;&#x430;&#x441;&#x442;&#x438;
+&#x426;&#x432;&#x435;&#x442;</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">192.373046875</attribute>
+				<attribute key="contentHeight" type="double">33.40234375</attribute>
+				<attribute key="anchor" type="String">b</attribute>
+			</section>
+		</section>
+		<section name="node">
+			<attribute key="id" type="int">12</attribute>
+			<attribute key="label" type="String">&#x41b;&#x438;&#x441;&#x442;</attribute>
+			<section name="graphics">
+				<attribute key="x" type="double">-106.58043968081392</attribute>
+				<attribute key="y" type="double">366.94536020151145</attribute>
+				<attribute key="w" type="double">123.38695978720921</attribute>
+				<attribute key="h" type="double">60.438287153652254</attribute>
+				<attribute key="customconfiguration" type="String">com.yworks.entityRelationship.big_entity</attribute>
+				<section name="styleproperties">
+					<section name="property">
+						<attribute key="name" type="String">y.view.ShadowNodePainter.SHADOW_PAINTING</attribute>
+						<attribute key="valueClass" type="String">java.lang.Boolean</attribute>
+						<attribute key="value" type="String">false</attribute>
+					</section>
+				</section>
+				<attribute key="hasFill" type="boolean">false</attribute>
+				<attribute key="outline" type="String">#000000</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41b;&#x438;&#x441;&#x442;</attribute>
+				<attribute key="fill" type="String">#FFFFFF</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.name</attribute>
+				<attribute key="contentWidth" type="double">30.07421875</attribute>
+				<attribute key="contentHeight" type="double">18.701171875</attribute>
+				<attribute key="anchor" type="String">t</attribute>
+			</section>
+			<section name="LabelGraphics">
+				<attribute key="text" type="String">&#x41a;&#x43b;&#x430;&#x441;&#x441; &#x43c;&#x43e;&#x434;&#x435;&#x43b;&#x438; &#x43b;&#x438;&#x441;&#x442;&#x430;
+&#x426;&#x432;&#x435;&#x442;</attribute>
+				<attribute key="fontSize" type="int">12</attribute>
+				<attribute key="fontName" type="String">Dialog</attribute>
+				<attribute key="alignment" type="String">left</attribute>
+				<attribute key="configuration" type="String">com.yworks.entityRelationship.label.attributes</attribute>
+				<attribute key="contentWidth" type="double">117.513671875</attribute>
+				<attribute key="contentHeight" type="double">33.40234375</attribute>
+				<attribute key="anchor" type="String">br</attribute>
+			</section>
+		</section>
+	</section>
+</section>
